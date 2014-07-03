@@ -52,3 +52,10 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# Mac
+.DS_Store
+
+# Compiled Assets
+logbook/web/static/cache/*
+logbook/web/static/.webassets-cache/*
+

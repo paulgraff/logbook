@@ -1,0 +1,9 @@
+Flask==0.10.1
+Flask-Assets==0.9
+Flask-Login==0.2.10
+Flask-Script==0.6.7
+Jinja2==2.7.3
+MarkupSafe==0.23
+Werkzeug==0.9.6
+itsdangerous==0.24
+wsgiref==0.1.2
